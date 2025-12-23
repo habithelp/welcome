@@ -1,0 +1,81 @@
+﻿Terms of Use
+Please read these Terms of Use carefully before accessing or using our Service.
+Interpretation
+Words with capitalized initial letters have meanings defined under the conditions below. These definitions apply equally whether the terms appear in singular or plural form.
+Definitions
+For the purposes of these Terms of Use:
+* Application means the software application provided by the Company and downloaded by You onto any electronic device, named HabitHelp.
+
+* Application Store refers to the digital distribution platform operated by Apple Inc. (Apple App Store) or Google Inc. (Google Play Store) from which the Application is downloaded.
+
+* Affiliate means any entity that controls, is controlled by, or is under common control with a party. “Control” means ownership of 50% or more of the voting shares, equity interest, or other securities entitled to elect directors or other managing authorities.
+
+* Country refers to Poland.
+
+* Company (also referred to as “the Company,” “We,” “Us,” or “Our”) means Jakub Cichy, Hipolita Cegielskiego 14, 52-130 Wrocław, Poland.
+
+* Device means any device capable of accessing the Service, including but not limited to a computer, mobile phone, or tablet.
+
+* Service refers to the Application.
+
+* Terms and Conditions (or Terms) mean these Terms of Use, which constitute the entire agreement between You and the Company regarding the use of the Service.
+
+* Third-party Social Media Service means any content, services, or materials (including data, information, products, or services) provided by third parties that may be displayed or made available through the Service.
+
+* You means the individual accessing or using the Service, or the legal entity on whose behalf such individual is accessing or using the Service, as applicable.
+
+Acknowledgment
+These Terms of Use govern Your access to and use of the Service and form a binding agreement between You and the Company. They define the rights and obligations of all users of the Service.
+By accessing or using the Service, You confirm that You have read, understood, and agree to be bound by these Terms. If You do not agree with any part of these Terms, You must not access or use the Service.
+You represent that You are at least 18 years old. The Company does not permit individuals under the age of 18 to use the Service.
+Your use of the Service is also subject to Your acceptance of the Company’s Privacy Policy. The Privacy Policy explains how personal data is collected, used, and disclosed, as well as Your privacy rights and applicable legal protections. Please review the Privacy Policy carefully before using the Service.
+Lifetime License Clarification
+If You have purchased a “lifetime” license for the Application, this license grants You the right to use the Application only in its current form and functionality as of the date of purchase.
+The term “lifetime” refers solely to the period during which the Service is made available and does not guarantee perpetual access. The Company reserves the right to modify, discontinue, or terminate the Service, in whole or in part, at any time and without prior notice.
+A lifetime license does not entitle You to future updates, additional features, ongoing server availability, maintenance, or support beyond what is currently offered. If the Service is discontinued, Your license will automatically terminate, and You acknowledge that no refunds or compensation will be provided for any unused portion of the lifetime license.
+Links to Third-Party Websites
+The Service may contain links to third-party websites or services that are not owned or controlled by the Company.
+The Company has no control over and assumes no responsibility for the content, privacy policies, or practices of any third-party websites or services. You acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of, or reliance on, any such third-party content, goods, or services.
+We strongly encourage You to review the terms and privacy policies of any third-party websites or services that You choose to visit.
+Termination
+The Company may terminate or suspend Your access to the Service immediately, without prior notice or liability, for any reason, including but not limited to a breach of these Terms.
+Upon termination, Your right to use the Service will cease immediately.
+Limitation of Liability
+To the fullest extent permitted by applicable law, the total liability of the Company and its suppliers under these Terms shall be limited to the amount actually paid by You through the Service, or USD 100 if You have not made any purchases.
+In no event shall the Company or its suppliers be liable for any indirect, incidental, special, or consequential damages, including but not limited to loss of profits, loss of data, business interruption, personal injury, or loss of privacy arising from or related to the use of or inability to use the Service, third-party software or hardware used with the Service, or any other matter connected with these Terms, even if the Company or its suppliers were advised of the possibility of such damages.
+Some jurisdictions do not allow limitations on implied warranties or the exclusion of incidental or consequential damages. In such cases, the above limitations may not apply, and liability will be limited to the maximum extent permitted by law.
+“AS IS” and “AS AVAILABLE” Disclaimer
+The Service is provided to You on an “AS IS” and “AS AVAILABLE” basis, with all faults and without warranties of any kind.
+To the maximum extent permitted by law, the Company disclaims all warranties, whether express, implied, statutory, or otherwise, including implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement, as well as warranties arising from course of dealing, performance, usage, or trade practice.
+The Company does not warrant that the Service will meet Your requirements, achieve intended results, be compatible with other systems, operate without interruption, meet performance or reliability standards, or be free of errors or defects, nor that any defects will be corrected.
+Neither the Company nor its service providers make any representation or warranty regarding:
+   * The availability or operation of the Service;
+
+   * The accuracy, reliability, or timeliness of any content;
+
+   * The uninterrupted or error-free operation of the Service; or
+
+   * The absence of viruses, malware, or other harmful components.
+
+Where applicable law does not allow certain exclusions or limitations, those exclusions will apply to the greatest extent legally permissible.
+Governing Law
+These Terms and Your use of the Service shall be governed by the laws of Poland, excluding its conflict of law provisions. Your use of the Application may also be subject to other applicable local, national, or international laws.
+Dispute Resolution
+If You have any disputes or concerns related to the Service, You agree to first attempt to resolve them informally by contacting the Company.
+European Union Users
+If You are a consumer residing in the European Union, You benefit from any mandatory provisions of the law of the country in which You reside.
+United States Legal Compliance
+You represent and warrant that:
+      1. You are not located in a country subject to a United States government embargo or designated as a terrorist-supporting country; and
+
+      2. You are not listed on any United States government list of prohibited or restricted parties.
+Severability
+If any provision of these Terms is found to be invalid or unenforceable, that provision shall be modified to best achieve its intended purpose to the extent permitted by law, and the remaining provisions shall remain in full force and effect.
+Waiver
+Failure by either party to enforce any right or obligation under these Terms shall not constitute a waiver of that right or obligation. A waiver of any breach shall not be deemed a waiver of any subsequent breach.
+Changes to These Terms
+The Company reserves the right to amend or replace these Terms at its sole discretion. If changes are material, reasonable efforts will be made to provide at least 30 days’ notice before the new Terms take effect.
+By continuing to use the Service after the revised Terms become effective, You agree to be bound by them. If You do not agree with the revised Terms, You must stop using the Service.
+Contact Information
+If You have any questions about these Terms of Use, You may contact us at:
+Email: habithelp@gmail.com
