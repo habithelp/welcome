@@ -128,6 +128,14 @@ img {
   font-size: 0.95rem;
 }
 
+.ph-badge {
+  margin: 18px auto 0;
+}
+
+.ph-badge a {
+  display: inline-flex;
+}
+
 .hero__card {
   background: radial-gradient(circle at 20% 20%, rgba(124, 77, 255, 0.14), transparent 35%), var(--card);
   border: 1px solid var(--border);
